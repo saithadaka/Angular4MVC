@@ -1,0 +1,80 @@
+C:\D_\work\ng2Mvc5Demo-master\ng2Mvc5Demo\bin\roslyn\csc.exe
+C:\D_\work\ng2Mvc5Demo-master\ng2Mvc5Demo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\D_\work\ng2Mvc5Demo-master\ng2Mvc5Demo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\D_\work\ng2Mvc5Demo-master\ng2Mvc5Demo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\D_\work\ng2Mvc5Demo-master\ng2Mvc5Demo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\D_\work\ng2Mvc5Demo-master\ng2Mvc5Demo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\D_\work\ng2Mvc5Demo-master\ng2Mvc5Demo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\D_\work\ng2Mvc5Demo-master\ng2Mvc5Demo\bin\roslyn\System.Collections.Immutable.dll
+C:\D_\work\ng2Mvc5Demo-master\ng2Mvc5Demo\bin\roslyn\System.Reflection.Metadata.dll
+C:\D_\work\ng2Mvc5Demo-master\ng2Mvc5Demo\bin\roslyn\vbc.exe
+C:\D_\work\ng2Mvc5Demo-master\ng2Mvc5Demo\bin\roslyn\VBCSCompiler.exe
+C:\D_\work\ng2Mvc5Demo-master\ng2Mvc5Demo\bin\roslyn\VBCSCompiler.exe.config
+C:\D_\work\ng2Mvc5Demo-master\ng2Mvc5Demo\bin\ng2Mvc5Demo.dll.config
+C:\D_\work\ng2Mvc5Demo-master\ng2Mvc5Demo\bin\ng2Mvc5Demo.dll
+C:\D_\work\ng2Mvc5Demo-master\ng2Mvc5Demo\bin\ng2Mvc5Demo.pdb
+C:\D_\work\ng2Mvc5Demo-master\ng2Mvc5Demo\bin\Antlr3.Runtime.dll
+C:\D_\work\ng2Mvc5Demo-master\ng2Mvc5Demo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\D_\work\ng2Mvc5Demo-master\ng2Mvc5Demo\bin\Microsoft.Web.Infrastructure.dll
+C:\D_\work\ng2Mvc5Demo-master\ng2Mvc5Demo\bin\Newtonsoft.Json.dll
+C:\D_\work\ng2Mvc5Demo-master\ng2Mvc5Demo\bin\System.Web.Helpers.dll
+C:\D_\work\ng2Mvc5Demo-master\ng2Mvc5Demo\bin\System.Web.Mvc.dll
+C:\D_\work\ng2Mvc5Demo-master\ng2Mvc5Demo\bin\System.Web.Optimization.dll
+C:\D_\work\ng2Mvc5Demo-master\ng2Mvc5Demo\bin\System.Web.Razor.dll
+C:\D_\work\ng2Mvc5Demo-master\ng2Mvc5Demo\bin\System.Web.WebPages.Deployment.dll
+C:\D_\work\ng2Mvc5Demo-master\ng2Mvc5Demo\bin\System.Web.WebPages.dll
+C:\D_\work\ng2Mvc5Demo-master\ng2Mvc5Demo\bin\System.Web.WebPages.Razor.dll
+C:\D_\work\ng2Mvc5Demo-master\ng2Mvc5Demo\bin\WebGrease.dll
+C:\D_\work\ng2Mvc5Demo-master\ng2Mvc5Demo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\D_\work\ng2Mvc5Demo-master\ng2Mvc5Demo\bin\System.Web.Helpers.xml
+C:\D_\work\ng2Mvc5Demo-master\ng2Mvc5Demo\bin\System.Web.Mvc.xml
+C:\D_\work\ng2Mvc5Demo-master\ng2Mvc5Demo\bin\System.Web.Optimization.xml
+C:\D_\work\ng2Mvc5Demo-master\ng2Mvc5Demo\bin\System.Web.Razor.xml
+C:\D_\work\ng2Mvc5Demo-master\ng2Mvc5Demo\bin\System.Web.WebPages.xml
+C:\D_\work\ng2Mvc5Demo-master\ng2Mvc5Demo\bin\System.Web.WebPages.Deployment.xml
+C:\D_\work\ng2Mvc5Demo-master\ng2Mvc5Demo\bin\System.Web.WebPages.Razor.xml
+C:\D_\work\ng2Mvc5Demo-master\ng2Mvc5Demo\bin\Antlr3.Runtime.pdb
+C:\D_\work\ng2Mvc5Demo-master\ng2Mvc5Demo\bin\Newtonsoft.Json.xml
+C:\D_\work\ng2Mvc5Demo-master\ng2Mvc5Demo\obj\Debug\ng2Mvc5Demo.csprojResolveAssemblyReference.cache
+C:\D_\work\ng2Mvc5Demo-master\ng2Mvc5Demo\obj\Debug\ng2Mvc5Demo.dll
+C:\D_\work\ng2Mvc5Demo-master\ng2Mvc5Demo\obj\Debug\ng2Mvc5Demo.pdb
+C:\Users\v-sathad\Desktop\ng2Mvc5Demo-master (2)\ng2Mvc5Demo-master\ng2Mvc5Demo\bin\roslyn\csc.exe
+C:\Users\v-sathad\Desktop\ng2Mvc5Demo-master (2)\ng2Mvc5Demo-master\ng2Mvc5Demo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\v-sathad\Desktop\ng2Mvc5Demo-master (2)\ng2Mvc5Demo-master\ng2Mvc5Demo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\v-sathad\Desktop\ng2Mvc5Demo-master (2)\ng2Mvc5Demo-master\ng2Mvc5Demo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\v-sathad\Desktop\ng2Mvc5Demo-master (2)\ng2Mvc5Demo-master\ng2Mvc5Demo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\v-sathad\Desktop\ng2Mvc5Demo-master (2)\ng2Mvc5Demo-master\ng2Mvc5Demo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\v-sathad\Desktop\ng2Mvc5Demo-master (2)\ng2Mvc5Demo-master\ng2Mvc5Demo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\v-sathad\Desktop\ng2Mvc5Demo-master (2)\ng2Mvc5Demo-master\ng2Mvc5Demo\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\v-sathad\Desktop\ng2Mvc5Demo-master (2)\ng2Mvc5Demo-master\ng2Mvc5Demo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\v-sathad\Desktop\ng2Mvc5Demo-master (2)\ng2Mvc5Demo-master\ng2Mvc5Demo\bin\roslyn\vbc.exe
+C:\Users\v-sathad\Desktop\ng2Mvc5Demo-master (2)\ng2Mvc5Demo-master\ng2Mvc5Demo\bin\roslyn\VBCSCompiler.exe
+C:\Users\v-sathad\Desktop\ng2Mvc5Demo-master (2)\ng2Mvc5Demo-master\ng2Mvc5Demo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\v-sathad\Desktop\ng2Mvc5Demo-master (2)\ng2Mvc5Demo-master\ng2Mvc5Demo\bin\ng2Mvc5Demo.dll.config
+C:\Users\v-sathad\Desktop\ng2Mvc5Demo-master (2)\ng2Mvc5Demo-master\ng2Mvc5Demo\bin\ng2Mvc5Demo.dll
+C:\Users\v-sathad\Desktop\ng2Mvc5Demo-master (2)\ng2Mvc5Demo-master\ng2Mvc5Demo\bin\ng2Mvc5Demo.pdb
+C:\Users\v-sathad\Desktop\ng2Mvc5Demo-master (2)\ng2Mvc5Demo-master\ng2Mvc5Demo\bin\Antlr3.Runtime.dll
+C:\Users\v-sathad\Desktop\ng2Mvc5Demo-master (2)\ng2Mvc5Demo-master\ng2Mvc5Demo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\v-sathad\Desktop\ng2Mvc5Demo-master (2)\ng2Mvc5Demo-master\ng2Mvc5Demo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\v-sathad\Desktop\ng2Mvc5Demo-master (2)\ng2Mvc5Demo-master\ng2Mvc5Demo\bin\Newtonsoft.Json.dll
+C:\Users\v-sathad\Desktop\ng2Mvc5Demo-master (2)\ng2Mvc5Demo-master\ng2Mvc5Demo\bin\System.Web.Helpers.dll
+C:\Users\v-sathad\Desktop\ng2Mvc5Demo-master (2)\ng2Mvc5Demo-master\ng2Mvc5Demo\bin\System.Web.Mvc.dll
+C:\Users\v-sathad\Desktop\ng2Mvc5Demo-master (2)\ng2Mvc5Demo-master\ng2Mvc5Demo\bin\System.Web.Optimization.dll
+C:\Users\v-sathad\Desktop\ng2Mvc5Demo-master (2)\ng2Mvc5Demo-master\ng2Mvc5Demo\bin\System.Web.Razor.dll
+C:\Users\v-sathad\Desktop\ng2Mvc5Demo-master (2)\ng2Mvc5Demo-master\ng2Mvc5Demo\bin\System.Web.WebPages.Deployment.dll
+C:\Users\v-sathad\Desktop\ng2Mvc5Demo-master (2)\ng2Mvc5Demo-master\ng2Mvc5Demo\bin\System.Web.WebPages.dll
+C:\Users\v-sathad\Desktop\ng2Mvc5Demo-master (2)\ng2Mvc5Demo-master\ng2Mvc5Demo\bin\System.Web.WebPages.Razor.dll
+C:\Users\v-sathad\Desktop\ng2Mvc5Demo-master (2)\ng2Mvc5Demo-master\ng2Mvc5Demo\bin\WebGrease.dll
+C:\Users\v-sathad\Desktop\ng2Mvc5Demo-master (2)\ng2Mvc5Demo-master\ng2Mvc5Demo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\v-sathad\Desktop\ng2Mvc5Demo-master (2)\ng2Mvc5Demo-master\ng2Mvc5Demo\bin\System.Web.Helpers.xml
+C:\Users\v-sathad\Desktop\ng2Mvc5Demo-master (2)\ng2Mvc5Demo-master\ng2Mvc5Demo\bin\System.Web.Mvc.xml
+C:\Users\v-sathad\Desktop\ng2Mvc5Demo-master (2)\ng2Mvc5Demo-master\ng2Mvc5Demo\bin\System.Web.Optimization.xml
+C:\Users\v-sathad\Desktop\ng2Mvc5Demo-master (2)\ng2Mvc5Demo-master\ng2Mvc5Demo\bin\System.Web.Razor.xml
+C:\Users\v-sathad\Desktop\ng2Mvc5Demo-master (2)\ng2Mvc5Demo-master\ng2Mvc5Demo\bin\System.Web.WebPages.xml
+C:\Users\v-sathad\Desktop\ng2Mvc5Demo-master (2)\ng2Mvc5Demo-master\ng2Mvc5Demo\bin\System.Web.WebPages.Deployment.xml
+C:\Users\v-sathad\Desktop\ng2Mvc5Demo-master (2)\ng2Mvc5Demo-master\ng2Mvc5Demo\bin\System.Web.WebPages.Razor.xml
+C:\Users\v-sathad\Desktop\ng2Mvc5Demo-master (2)\ng2Mvc5Demo-master\ng2Mvc5Demo\bin\Antlr3.Runtime.pdb
+C:\Users\v-sathad\Desktop\ng2Mvc5Demo-master (2)\ng2Mvc5Demo-master\ng2Mvc5Demo\bin\Newtonsoft.Json.xml
+C:\Users\v-sathad\Desktop\ng2Mvc5Demo-master (2)\ng2Mvc5Demo-master\ng2Mvc5Demo\obj\Debug\ng2Mvc5Demo.csprojResolveAssemblyReference.cache
+C:\Users\v-sathad\Desktop\ng2Mvc5Demo-master (2)\ng2Mvc5Demo-master\ng2Mvc5Demo\obj\Debug\ng2Mvc5Demo.dll
+C:\Users\v-sathad\Desktop\ng2Mvc5Demo-master (2)\ng2Mvc5Demo-master\ng2Mvc5Demo\obj\Debug\ng2Mvc5Demo.pdb
